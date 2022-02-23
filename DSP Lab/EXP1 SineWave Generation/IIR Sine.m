@@ -16,14 +16,14 @@ for i=1: length(n)
 end
 subplot(2,1,1);
 stem(n,x);
-xlabel('Magnitude')
-ylabel('Frequency')
+xlabel('Frequency')
+ylabel('Magnitude')
 legend('19R11A04N1')
 title('SineWave')
 
 subplot(2,1,2);
 stem(n,y);
-xlabel('Magnitude')
-ylabel('Frequency')
+xlabel('Frequency')
+ylabel('Magnitude')
 legend('19R11A04N1')
 title('SineWave using recursive function')
