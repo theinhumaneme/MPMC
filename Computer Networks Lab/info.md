@@ -5,6 +5,11 @@
 * Sliding Window Protocols
 * Stop and Wait Protocol
 * Carrier Sense Multiple Access - Collision Detection
+* Dijkstra Algorithm
+* RSA Encryption and Decryption Algorithm
+* Caesar Cipher
+* Substitution Cipher
+* Hill Cipher
 
 
 
