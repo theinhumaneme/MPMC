@@ -16,8 +16,6 @@
 * DFT FFT
 
 ### EXP 05 Determination of Power Spectrum
-
-
 ### EXP 06 Implementation of LP FIR Filter
 
 ### EXP 07 Implementation of HP FIR Filter
@@ -32,4 +30,4 @@
 
 ### EXP 14 Implementation of I/D Sampling Rate Converters
 
-### EXP16 Impulse Repsonse of First and Second Order Systems
+### EXP16 Impulse Response of First and Second Order Systems
