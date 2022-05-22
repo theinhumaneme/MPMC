@@ -8,3 +8,8 @@
 
 ### Using Arduino
 * Gas Leakage Detection and Automatic Control System
+* Image and Video Capture using picamera module
+* Movement Detection and Control Lights using PIR
+
+### Using Node MCU
+* Weather Monitoring using DHT11 and ESP8266
